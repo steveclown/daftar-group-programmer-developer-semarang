@@ -1,4 +1,4 @@
-# Panduan dalam Berkontribusi
+﻿*# Panduan dalam Berkontribusi
 Terdapat 3 cara bagi kamu jika ingin berkontribusi melalui Github :
 1. Beri bintang ️️⭐️ ke repository ini.
 2. Mengirim [issue](https://github.com/santrenkoding/daftar-group-programmer-developer-semarang/issues)
